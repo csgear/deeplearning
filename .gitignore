@@ -1,5 +1,7 @@
 # pyCharm
 
+.DS_Store
+
 .idea/
 
 .vscode/
