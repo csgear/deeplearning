@@ -4,6 +4,12 @@
 
 .idea/
 
+.ipynb_checkpoints/
+
+data/
+
+MNIST_data/
+
 .vscode/
 
 ~$*
